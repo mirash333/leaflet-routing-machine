@@ -176,6 +176,7 @@
 					name: '',
 					coordinates: [],
 					instructions: [],
+					legs: responseRoute.legs,
 					summary: {
 						totalDistance: responseRoute.distance,
 						totalTime: responseRoute.duration
